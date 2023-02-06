@@ -1,0 +1,10 @@
+[type="button"]{
+        color:red;
+        background-color: yellow;
+        height: 50px;
+        width: 150px;
+        border-radius: 20%  0 20%;
+        border:2px dotted red;
+        margin-left: 500px;
+        margin-top: 250px;    
+    }
